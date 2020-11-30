@@ -63,6 +63,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
+- GitHub [@simranbajaj962](https://github.com/simranbajaj962)
+- Twitter [@SimranBajaj962](https://twitter.com/SimranBajaj962)
