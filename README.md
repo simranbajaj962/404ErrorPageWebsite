@@ -38,7 +38,7 @@
 
 ![screenshot](https://i.imgur.com/nKX485c.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+
 
 - You can check the page by clicking on Demo ☝
 - It improved a lot of basic CSS layout skill. And I was very happy to build this page.
