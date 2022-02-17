@@ -64,4 +64,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 - GitHub [@simranbajaj962](https://github.com/simranbajaj962)
-- Twitter [@SimranBajaj962](https://twitter.com/SimranBajaj962)
+- Twitter [@simbaJazzz](https://twitter.com/simbaJazzz)
